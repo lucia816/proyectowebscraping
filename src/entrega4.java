@@ -24,18 +24,4 @@ public class entrega4 {
 }
 
 
-       /* try {
-            WebElement ventanaCookies = pagina1.findElement(By.xpath("//*[@id=\"onetrust-accept-btn-handler\"]"));
-            if (ventanaCookies != null) {
-                System.out.println("Detectado caja de cookies");
-                ventanaCookies.click();
-            }
-            WebElement ventanasCookies2 = pagina2.findElement(By.xpath("/html/body/div[10]/div[3]/div/div/div[2]/div/div"));
-            if (ventanaCookies != null) {
-                System.out.println("Detectado caja de cookies");
-                ventanaCookies.click();
-            }
-        } catch (Exception e) {
-        }*/
-
 
